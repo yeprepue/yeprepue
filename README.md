@@ -42,8 +42,8 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YeisonPretel&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonPretel&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=radical)
 
 ---
 
