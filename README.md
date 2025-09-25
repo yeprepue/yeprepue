@@ -1,6 +1,6 @@
 # 🚀 ¡Bienvenido a Mi Perfil de GitHub!
 
-Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con más de **1 año reciente de experiencia en desarrollo web y móvil**, creando aplicaciones de alto rendimiento con **interfaces intuitivas y escalables**.  
+Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con más de **5 años de experiencia en desarrollo web y móvil**, creando aplicaciones de alto rendimiento con **interfaces intuitivas y escalables**.  
 Mi enfoque se centra en la **integración de frontend y backend**, aplicando las **mejores prácticas de desarrollo**, arquitectura limpia y metodologías ágiles para entregar soluciones robustas y eficientes.
 
 ---
