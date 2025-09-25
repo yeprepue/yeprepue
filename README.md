@@ -57,7 +57,7 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 ---
 
 ## 📬 Conéctate Conmigo
-- **LinkedIn:** [TuPerfil]([https://linkedin.com/in/TuPerfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
+- **LinkedIn:** [TuPerfil]([https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]))  
 - **Correo:** [tuemail@correo.com](mailto:yeisonpretel71@gmail.com)  
 
 
