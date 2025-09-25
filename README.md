@@ -42,8 +42,9 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=radical)
+
 
 ---
 
@@ -57,8 +58,9 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 ---
 
 ## 📬 Conéctate Conmigo
-- **LinkedIn:** [TuPerfil]([https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]))  
+- **LinkedIn:** [TuPerfil](https://linkedin.com/in/yeison-esteban-pretel-puentes-a16507177)  
 - **Correo:** [tuemail@correo.com](mailto:yeisonpretel71@gmail.com)  
+
 
 
 ---
