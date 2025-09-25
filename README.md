@@ -36,14 +36,13 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 - Git & GitHub  
 - Jira | Scrum | Agile  
 - Jest | Supertest (Pruebas Unitarias)
-- docker
 - aws
 
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=dracula)
 
 
 ---
