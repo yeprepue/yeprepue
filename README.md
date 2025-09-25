@@ -41,8 +41,8 @@ Mi enfoque se centra en la **integración de frontend y backend**, aplicando las
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=monokai)
 
 
 ---
