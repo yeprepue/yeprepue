@@ -19,7 +19,7 @@ Durante el **último año**, he trabajado en entornos productivos desarrollando 
 
 ## 💻 Desarrollo Frontend
 - **Vue.js 3**
-- **Angular** (experiencia profesional en **IMEX**)
+- **Angular** 
 - **React.js**
 - TypeScript | JavaScript (ES6+)
 - HTML5 | CSS3
