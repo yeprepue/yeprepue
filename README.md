@@ -30,7 +30,7 @@ Durante el **último año**, he trabajado en entornos productivos desarrollando 
 ## 🖥️ Desarrollo Backend & Automatización
 
 ### 🚀 Tecnologías Backend
-- **Node.js | Express.js | NestJS**
+- **Node.js | Express.js | NestJS |php**
 - Desarrollo de **APIs RESTful**
 - Arquitectura **en capas y modular**
 - Manejo de **autenticación y autorización**
