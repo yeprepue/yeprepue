@@ -94,7 +94,7 @@ Me enfoco en construir soluciones escalables, seguras y automatizadas, aplicando
 ---
 
 ## ☁️ Cloud & DevOps
-- **AWS** (EC2, S3, despliegues y configuraciones)
+- **AWS** (EC2, S3, Terraform,despliegues y configuraciones)
 - Docker | Docker Compose
 - GitHub Actions
 - SonarQube
