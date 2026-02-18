@@ -1,8 +1,22 @@
-# 🚀 ¡Bienvenido a mi Perfil de GitHub!
+🚀 ¡Bienvenido a mi Perfil de GitHub!
 
-Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y **estudiante del último semestre de Ingeniería de Sistemas**, con más de **5 años de experiencia** en desarrollo **web y móvil**, enfocado en la construcción de **soluciones full stack**, automatización de procesos e integración de sistemas empresariales.
+Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información y estudiante de último semestre de Ingeniería de Sistemas, con más de 5 años de experiencia en desarrollo web y móvil, enfocado en la construcción de soluciones Full Stack, automatización de procesos e integración de sistemas empresariales.
 
-Durante el **último año**, he trabajado en entornos productivos desarrollando aplicaciones con **Vue, Angular y React**, participando en la **configuración de campañas con Asterisk**, integración de **APIs REST, WebSockets**, automatización con **n8n**, e implementación de soluciones con **Inteligencia Artificial y Machine Learning**, desplegadas sobre **infraestructura AWS**.
+Durante el último año he trabajado en entornos productivos desarrollando aplicaciones con Vue, Angular y React, participando en la configuración de campañas con Asterisk, integración de APIs REST y WebSockets, automatización de flujos con n8n, e implementación de soluciones con Inteligencia Artificial y Machine Learning, desplegadas sobre infraestructura en AWS.
+
+Además, he participado en la gestión y automatización de infraestructura cloud, incluyendo:
+
+Administración de roles y políticas IAM
+
+Configuración de ECS (Elastic Container Service) para despliegue de contenedores
+
+Gestión de permisos y seguridad en entornos AWS
+
+Automatización de infraestructura mediante Terraform (Infrastructure as Code)
+
+Despliegues reproducibles y versionados en entornos productivos
+
+Me enfoco en construir soluciones escalables, seguras y automatizadas, aplicando buenas prácticas de arquitectura y principios DevOps.
 
 ---
 
