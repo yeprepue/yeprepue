@@ -1,152 +1,135 @@
-## **🚀 ¡Bienvenido a mi Perfil de GitHub!**
+# 👋 ¡Hola! Soy Yeison Esteban Pretel Puentes
 
-Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información y estudiante de último semestre de Ingeniería de Sistemas, con más de 5 años de experiencia en desarrollo web y móvil, enfocado en la construcción de soluciones Full Stack, automatización de procesos e integración de sistemas empresariales.
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/yeprepue?label=Follow&style=social)](https://github.com/yeprepue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yeison-esteban-pretel-puentes-a16507177)
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-red?style=flat&logo=gmail)](mailto:yeisonpretel71@gmail.com)
 
-Durante el último año he trabajado en entornos productivos desarrollando aplicaciones con Vue, Angular y React, participando en la configuración de campañas con Asterisk, integración de APIs REST y WebSockets, automatización de flujos con n8n, e implementación de soluciones con Inteligencia Artificial y Machine Learning, desplegadas sobre infraestructura en AWS.
-
-Además, he participado en la gestión y automatización de infraestructura cloud, incluyendo:
-
-Administración de roles y políticas IAM
-
-Configuración de ECS (Elastic Container Service) para despliegue de contenedores
-
-Gestión de permisos y seguridad en entornos AWS
-
-Automatización de infraestructura mediante Terraform (Infrastructure as Code)
-
-Despliegues reproducibles y versionados en entornos productivos
-
-Me enfoco en construir soluciones escalables, seguras y automatizadas, aplicando buenas prácticas de arquitectura y principios DevOps.
+</div>
 
 ---
 
-## 🧠 Perfil Profesional
-- Desarrollo de **aplicaciones empresariales escalables**
-- Integración **frontend – backend**
-- Automatización de procesos y flujos inteligentes
-- Configuración y gestión de **campañas telefónicas (Asterisk)**
-- Diseño, consumo y documentación de **APIs y WebSockets**
-- Optimización de procesos y bases de datos
-- Enfoque en **calidad, rendimiento y escalabilidad**
+## 🎯 Sobre Mí
+
+**Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y estudiante de **último semestre de Ingeniería de Sistemas**, con **+5 años de experiencia** en desarrollo web y móvil.
+
+Especializado en la construcción de soluciones **Full Stack**, automatización de procesos e integración de sistemas empresariales. Me enfoco en crear aplicaciones **escalables, seguras y automatizadas**, aplicando buenas prácticas de arquitectura y principios **DevOps**.
+
+### ⚡ En el último año he trabajado con:
+- **Frontend:** Vue.js, Angular, React
+- **Backend:** Node.js, NestJS, PHP
+- **Telefonía IP:** Configuración de campañas con Asterisk
+- **Integraciones:** APIs REST, WebSockets
+- **Automatización:** n8n para flujos empresariales
+- **IA/ML:** OpenAI API, Whisper, modelos personalizados
+- **Cloud:** AWS (EC2, S3, ECS, IAM, Terraform)
 
 ---
 
-## 💻 Desarrollo Frontend
-- **Vue.js 3**
-- **Angular** 
-- **React.js**
-- TypeScript | JavaScript (ES6+)
-- HTML5 | CSS3
-- Vuetify | Tailwind CSS
+## 🛠️ Stack Tecnológico
+
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🤖 IA & Automatización
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Bases de Datos
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-FF7F00?style=for-the-badge)
 
 ---
 
-## 🖥️ Desarrollo Backend & Automatización
+## 📌 Proyectos Destacados
 
-### 🚀 Tecnologías Backend
-- **Node.js | Express.js | NestJS |php**
-- Desarrollo de **APIs RESTful**
-- Arquitectura **en capas y modular**
-- Manejo de **autenticación y autorización**
-- Implementación de **lógica de negocio**
-- Integración de **WebSockets** para comunicación en tiempo real
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| [**Entrevistas-backEnd**](https://github.com/yeprepue/Entrevistas-backEnd) | .NET 8, C#, SQL Server | API REST para gestión de citas médicas |
+| [**angular-my-dashboard**](https://github.com/yeprepue/angular-my-dashboard) | Angular 17+, TypeScript | Dashboard interactivo con Angular moderno |
+| [**back-ventas-odoo**](https://github.com/yeprepue/back-ventas-odoo) | Python, Odoo | Integración con ERP Odoo |
+| [**React-Fronted-Hoteles**](https://github.com/yeprepue/React-Fronted-Hoteles) | React, JavaScript | Consumo de API REST de hoteles |
 
-### 🧠 Lenguajes
-- **JavaScript (ES6+)**
-- **TypeScript**
-- Uso de DTOs, interfaces y validaciones
-- Buenas prácticas de **Clean Code**
+> 💡 **Ver más:** Explora mis [repositorios](https://github.com/yeprepue?tab=repositories) para conocer otros proyectos
 
 ---
 
-### 🤖 Automatización & Inteligencia Artificial
-- **n8n** para:
-  - Automatización de procesos empresariales
-  - Integración entre sistemas
-  - Orquestación de flujos complejos
-- Integración con **IA** usando:
-  - **OpenAI API**
-  - Uso de diferentes modelos según el caso de uso
-  - **Whisper** para transcripción y traducción de audios
-  - Modelos tipo **ChatGPT** para:
-    - Procesamiento de lenguaje natural
-    - Automatización de respuestas
-    - Análisis y generación de contenido inteligente
+## 🏆 Logros y Formación
+
+- 🎓 **Diplomado en Inteligencia Artificial y Machine Learning** (2024)
+- 🎓 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**
+- 🎓 **Ingeniería de Sistemas** (último semestre)
+
+### 💼 Experiencia Destacada (Último año)
+- ✅ Desarrollo profesional con **Angular en IMEX**
+- ✅ Configuración y soporte de **campañas con Asterisk**
+- ✅ Implementación de **APIs REST y WebSockets** en producción
+- ✅ Automatización de flujos empresariales con **n8n**
+- ✅ Integración de **OpenAI y Whisper** en soluciones reales
+- ✅ Despliegues y soporte sobre **AWS** (EC2, ECS, S3, IAM)
+- ✅ Gestión de infraestructura como código con **Terraform**
 
 ---
 
-### 📚 Machine Learning & Formación
-- 🎓 **Diplomado en Inteligencia Artificial y Machine Learning** (finalizado el año pasado)
-- Entrenamiento de **modelos personalizados**
-- Aplicación práctica de ML en soluciones reales
-- Integración de modelos de IA en aplicaciones backend
+## 📈 Estadísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=monokai"/>
+</div>
 
 ---
 
-## 🗄️ Bases de Datos
-- **Oracle**
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-- Knex.js | Objection.js
-- Optimización de consultas SQL y procedimientos almacenados
+## 📫 ¿Hablamos?
+
+Estoy siempre abierto a **nuevos retos, colaboraciones y oportunidades profesionales**. Si buscas un desarrollador full stack con experiencia en:
+
+- 🚀 Backend escalable y bien estructurado
+- 🤖 Automatización inteligente con IA
+- ☁️ Infraestructura cloud y DevOps
+- 💼 Integraciones empresariales
+
+**¡Contáctame!**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeison-esteban-pretel-puentes-a16507177)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeisonpretel71@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeprepue)
+
+</div>
 
 ---
 
-## ☁️ Cloud & DevOps
-- **AWS** (EC2, S3, Terraform,despliegues y configuraciones)
-- Docker | Docker Compose
-- GitHub Actions
-- SonarQube
-- Vercel | Netlify
+<div align="center">
+  
+*"La experiencia se construye con constancia, buenas prácticas y soluciones reales"* 🚀
 
----
-
-## 🧪 Testing & Calidad
-- Jest
-- Supertest
-- Pruebas unitarias e integración
-- Control de calidad y análisis de código
-
----
-
-## 🧩 Metodologías & Herramientas
-- Scrum | Agile
-- Jira
-- Git & GitHub
-- Documentación técnica y funcional
-
----
-
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeprepue&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeprepue&layout=compact&theme=monokai)
-
----
-
-## 🔥 Experiencia Destacada del Último Año
-✔ Desarrollo con **Vue, Angular y React**  
-✔ Experiencia profesional con **Angular en IMEX**  
-✔ Configuración y soporte de **campañas con Asterisk**  
-✔ Implementación de **APIs REST y WebSockets**  
-✔ Automatización con **n8n**  
-✔ Integraciones con **Inteligencia Artificial**  
-✔ Despliegues y soporte sobre **AWS**  
-✔ Optimización de bases de datos empresariales  
-✔ Implementación de **CI/CD y control de calidad**  
-
----
-
-## 📬 Conéctate Conmigo
-- 💼 **LinkedIn:** [Yeison Esteban Pretel Puentes](https://linkedin.com/in/yeison-esteban-pretel-puentes-a16507177)
-- 📧 **Correo:** [yeisonpretel71@gmail.com](mailto:yeisonpretel71@gmail.com)
-
----
-
-## 🎯 ¡Colaboremos!
-¿Buscas un **desarrollador full stack** con experiencia en **backend, automatización, IA y sistemas empresariales**?  
-Estoy abierto a **nuevos retos, proyectos y oportunidades profesionales** 🚀
-
----
-
-🏆 *La experiencia se construye con constancia, buenas prácticas y soluciones reales.*
+</div>
