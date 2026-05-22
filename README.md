@@ -135,14 +135,13 @@ Especializado en la construcción de soluciones **Full Stack**, automatización 
 
 ## 🏆 Logros y Formación
 
-- 🎓 **Diplomado en Inteligencia Artificial y Machine Learning** (2024)
+- 🎓 **Diplomado en Inteligencia Artificial y Machine Learning** (2025)
 - 🎓 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**
 - 🎓 **Ingeniería de Sistemas** (último semestre)
-- 📜 **Certificación en Oracle Database** (en progreso)
-- 📜 **Certificación AWS Cloud Practitioner** (preparación)
 
-### 💼 Experiencia Destacada (Último año)
-- ✅ Desarrollo profesional con **Angular en IMEX**
+
+### 💼 Experiencia Destacada (Últimos año)
+- ✅ Desarrollo profesional con **Angular y vue**
 - ✅ Configuración y soporte de **campañas con Asterisk**
 - ✅ Implementación de **APIs REST y WebSockets** en producción
 - ✅ Automatización de flujos empresariales con **n8n**
